@@ -54,3 +54,5 @@ length(cr)
 cr <- corr("specdata")
 summary(cr)
 length(cr)
+
+# How is it goin ma pal?)
