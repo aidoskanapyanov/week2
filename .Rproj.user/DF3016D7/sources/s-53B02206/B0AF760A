@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590239357069.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0AF760A",
+    "lastKnownWriteTime" : 1590239098,
+    "last_content_update" : 1590239098,
+    "path" : "C:/Users/Aidos/OneDrive - nu.edu.kz/MSF/R Programming Coursera/week2/week2.R",
+    "project_path" : "week2.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
